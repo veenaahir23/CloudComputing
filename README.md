@@ -7,4 +7,4 @@ JMeter used to scale application.
 SQL workbench used for AWS.
 Code examples for the same have been uploaded. 
 
-The hosting are not available as of now, since they were free trails purhcased during the duration of course. 
+The hosting are not available as of now, since they were free trails purchased during the duration of course. 
